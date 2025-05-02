@@ -272,7 +272,7 @@ void Error_Handler(void)
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
-![image](https://github.com/user-attachments/assets/5541f43a-d42f-4616-aa6b-4a257ada30a3)
+![Screenshot 2025-05-02 081951](https://github.com/user-attachments/assets/406658e1-458e-44da-b280-29dae8fa1391)
 
 
 ## Result :
